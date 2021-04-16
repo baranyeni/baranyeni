@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile.
 
-<img align="right" height="400" src="https://github.com/baranyeni/baranyeni/blob/main/byeni.jpg?raw=true">
+<img align="right" height="0" src="https://github.com/baranyeni/baranyeni/blob/main/byeni.jpg?raw=true">
