@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile.
 
-It's Baran, developer from Istanbul and very busy with having a professional career in the field of computer science
-and software development which I have been interested in since I was very
-young. 😝
+It's Baran, developer who lives in Istanbul 👨🏻‍💻
+Want to get to know me better? Try [this](http://www.baranyeni.com)
+
+.
 
 <img align="right" height="0" src="https://github.com/baranyeni/baranyeni/blob/main/byeni.jpg?raw=true">
