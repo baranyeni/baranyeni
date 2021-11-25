@@ -9,8 +9,4 @@ Want to get to know me better? Try [this](http://www.baranyeni.com)
 
 My public repo's are cool but have you ever tried to work with me on a private one?
 
-<a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
 [![wakatime](https://wakatime.com/badge/user/5d7e7b26-fa60-4a80-bf82-d9199323a227.svg)](https://wakatime.com/@5d7e7b26-fa60-4a80-bf82-d9199323a227)
